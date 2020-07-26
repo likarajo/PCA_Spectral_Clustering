@@ -1,8 +1,9 @@
 # Dimensionality Reduction
 
-## Image Quantization
-## Image Comporession
+## Image Quantization | Image Compression
 
-* **Support Vector Machine (SVM) Classifier** model with Stochastic Gradient Decent (SGD) using **Principal Component Analysis** for *USPS Digit recognition*
+* **KMeans vs Spectral Clustering**
 * **KMeans Clustering** for *image quantization*
 * **Principal Component Analysis** for *image compression*
+
+[Report](Report.pdf)
