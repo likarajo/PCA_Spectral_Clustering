@@ -1,4 +1,4 @@
-# Dimensionality_reduction
+# Dimensionality Reduction
 
 ## Image Quantization
 ## Image Comporession
