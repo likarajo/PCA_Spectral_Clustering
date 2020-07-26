@@ -1,7 +1,8 @@
 # Dimensionality Reduction
 
-## Image Quantization | Image Compression
+## Image Recognition | Quantization | Compression
 
+* **Principal Component Analysis** for *digit recognition*
 * **KMeans vs Spectral Clustering**
 * **KMeans Clustering** for *image quantization*
 * **Principal Component Analysis** for *image compression*
